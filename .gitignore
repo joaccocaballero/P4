@@ -3,6 +3,9 @@
 *.orig
 *.rej
 
+# Ignore all
+*
+
 *~
 .#*
 *#
